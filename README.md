@@ -7,6 +7,6 @@ Academic Ghostwriter is an intelligent study companion powered by Google Gemini.
 - **Socratic Tutor:** A chatbot that answers questions based *strictly* on your uploaded material.
 
 ## 🛠️ Tech Stack
-- **Frontend:** HTML5, CSS3 (Custom Neon Theme), JavaScript (ES6 Modules)
+- **Frontend:** HTML5, CSS3 , JavaScript (ES6 Modules)
 - **AI:** Google Gemini API
 - **Hosting:** Firebase Hosting
