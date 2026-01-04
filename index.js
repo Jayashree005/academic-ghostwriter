@@ -7,7 +7,6 @@ const { GoogleGenerativeAI } = require("@google/generative-ai");
 initializeApp({ projectId: "gen-lang-client-0592248752" });
 
 // ✅ FIX 2: Your API Key
-const genAI = new GoogleGenerativeAI("AIzaSyC1kTqyYC2stbVAzcGCZYNVXpLxaVVV06g");
 
 // ✅ FIX 3: Use the "Latest Flash" alias (Safest for your key)
 const model = genAI.getGenerativeModel({ model: "gemini-flash-latest" });
